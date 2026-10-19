@@ -167,15 +167,6 @@ NEO4J_DATABASE=<nama-database>
 ├── .gitignore
 └── README.md
 ```
-
-## Fokus Project
-
-Project ini menggabungkan beberapa konsep dalam satu analisis:
-
-**Impor Data ke Graf → Komposisi Subgraph → Vector Space Modelling → Perbandingan Proyeksi → Cosine Similarity → Relasi SIMILAR_TO → User-based KNN → Hit@5 dan NDCG@5**
-
-Project ini juga menjadi latihan untuk memahami bagaimana data interaksi dapat dimodelkan sebagai graf dan dimanfaatkan untuk membangun sistem rekomendasi.
-
 ## Author
 
 **Muhammad Zikri Widiandra**
